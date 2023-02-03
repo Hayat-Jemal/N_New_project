@@ -1,0 +1,13 @@
+.home__image{
+    /* max-height: 400px; */
+    object-fit: contain;
+    height: "650px"
+}
+
+body {
+    margin: 0;
+  }
+  
+  body .container {
+    width: 100%;
+  }
